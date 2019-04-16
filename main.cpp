@@ -26,9 +26,9 @@ public:
 };
 
 int main(){
-int func;
+int func
 int x, y;
-int tu_problem;
+int "tu problem";
 functions key; //Object
 key.Body(); //Object
 
@@ -41,7 +41,7 @@ cout << "Input: " << endl;
 
 cin >> func;
 cout << endl;
-cou << "sprawdzanie";<< endl;
+cout < "sprawdzanie";<< endl;
 switch(func){
 
     case 1: //Addition
